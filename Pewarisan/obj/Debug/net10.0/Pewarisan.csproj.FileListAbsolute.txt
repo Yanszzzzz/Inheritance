@@ -1,0 +1,14 @@
+D:\BBB\Inheritance\Pewarisan\obj\Debug\net10.0\Pewarisan.GeneratedMSBuildEditorConfig.editorconfig
+D:\BBB\Inheritance\Pewarisan\obj\Debug\net10.0\Pewarisan.AssemblyInfoInputs.cache
+D:\BBB\Inheritance\Pewarisan\obj\Debug\net10.0\Pewarisan.AssemblyInfo.cs
+D:\BBB\Inheritance\Pewarisan\obj\Debug\net10.0\Pewarisan.csproj.CoreCompileInputs.cache
+D:\BBB\Inheritance\Pewarisan\bin\Debug\net10.0\Pewarisan.exe
+D:\BBB\Inheritance\Pewarisan\bin\Debug\net10.0\Pewarisan.deps.json
+D:\BBB\Inheritance\Pewarisan\bin\Debug\net10.0\Pewarisan.runtimeconfig.json
+D:\BBB\Inheritance\Pewarisan\bin\Debug\net10.0\Pewarisan.dll
+D:\BBB\Inheritance\Pewarisan\bin\Debug\net10.0\Pewarisan.pdb
+D:\BBB\Inheritance\Pewarisan\obj\Debug\net10.0\Pewarisan.dll
+D:\BBB\Inheritance\Pewarisan\obj\Debug\net10.0\refint\Pewarisan.dll
+D:\BBB\Inheritance\Pewarisan\obj\Debug\net10.0\Pewarisan.pdb
+D:\BBB\Inheritance\Pewarisan\obj\Debug\net10.0\Pewarisan.genruntimeconfig.cache
+D:\BBB\Inheritance\Pewarisan\obj\Debug\net10.0\ref\Pewarisan.dll
